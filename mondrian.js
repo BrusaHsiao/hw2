@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(500, 650);
+  createCanvas(500, 650); //Composition with Large Blue Plane, Red, Black, Yellow, and Gray
 }
 
 function draw() {
